@@ -160,7 +160,7 @@ Benchmarked using a custom test suite and RAGAS:
 
 ## 👤 Author
 
-**Soumil Aggarwal** · Roll No. 2305016  
+**Soumil Aggarwal**  
 Course: Agentic AI (IS30056) · April 2026
 
 ---
